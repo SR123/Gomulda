@@ -1,0 +1,8 @@
+{
+  "games": 2048,
+  "simulations": 256,
+  "seed": 9132026,
+  "extraCost": 25,
+  "startedAt": "2026-09-12T23:38:00.324Z",
+  "startGames": 512
+}

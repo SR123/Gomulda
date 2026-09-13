@@ -1,0 +1,13 @@
+{
+  "name": "gomulda",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:site": "node scripts/check-site.mjs",
+    "test": "node --test tests/*.test.js",
+    "benchmark": "node tests/benchmark.js",
+    "start": "python3 -m http.server 4179 --directory dist",
+    "train": "node training/train.js",
+    "book": "node research/build-book.js"
+  }
+}

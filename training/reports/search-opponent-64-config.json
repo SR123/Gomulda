@@ -1,0 +1,15 @@
+{
+  "games": 64,
+  "simulations": 128,
+  "mode": "search",
+  "searchTimeMs": 150,
+  "seed": 9132026,
+  "extraCost": 25,
+  "startedAt": "2026-09-13T00:10:59.399Z",
+  "startGames": 2560,
+  "startTrainingStats": {
+    "selfPlay": 2560,
+    "searchWhite": 0,
+    "searchBlack": 0
+  }
+}

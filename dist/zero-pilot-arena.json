@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "seed": 900000000,
+      "learnerWhite": 2,
+      "opponentWhite": 12,
+      "margin": -10,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900000881,
+      "learnerWhite": 0,
+      "opponentWhite": 12,
+      "margin": -12,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900001762,
+      "learnerWhite": 2,
+      "opponentWhite": 4,
+      "margin": -2,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900002643,
+      "learnerWhite": 2,
+      "opponentWhite": 12,
+      "margin": -10,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900003524,
+      "learnerWhite": 0,
+      "opponentWhite": 12,
+      "margin": -12,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900004405,
+      "learnerWhite": 2,
+      "opponentWhite": 2,
+      "margin": 0,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900005286,
+      "learnerWhite": 2,
+      "opponentWhite": 2,
+      "margin": 0,
+      "timeMs": 150,
+      "opponent": "search"
+    },
+    {
+      "seed": 900006167,
+      "learnerWhite": 2,
+      "opponentWhite": 2,
+      "margin": 0,
+      "timeMs": 150,
+      "opponent": "search"
+    }
+  ],
+  "summary": {
+    "matches": 8,
+    "wins": 0,
+    "draws": 3,
+    "losses": 5,
+    "meanMargin": -5.75,
+    "standardError": 2.0155644370746373,
+    "lowerApprox95": -10.516809893681518,
+    "strongerEvidence": false
+  },
+  "modelGames": 2560
+}

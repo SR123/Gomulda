@@ -1,0 +1,10 @@
+.DS_Store
+.sites-runtime/
+.openai/
+.env
+.env.*
+!.env.example
+node_modules/
+training/runs/
+
+research/runs/
