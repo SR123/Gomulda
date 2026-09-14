@@ -70,6 +70,12 @@ All asset, module, worker and model paths are relative, so the app works under
 the `/Gomulda/` project path. No API key, package installation or build step is
 needed. Run `npm run check:site` to check the static files before publishing.
 
+The social preview is `dist/og.png`, referenced by absolute Open Graph and
+X card URLs in `dist/index.html`. After changing the preview, use
+[LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/) with the
+live website URL to refresh LinkedIn's cached preview. Existing profile media
+may need to be added again to retrieve the updated image.
+
 Matches, learned checkpoints and opening-book additions stay in the visitor's
 browser. The GitHub Pages address has separate storage from other hosted copies
 of Gomulda. Use the Learning lab and Opening book export/import controls to
